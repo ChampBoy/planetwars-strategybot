@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: antlr4-annotations-4.2.jar org.abego.treelayout.core-1.0.1
+ .jar digraph-parser-1.0.jar antlr4-runtime-4.2.jar
+Main-Class: planetwars.publicapi.Driver
+
